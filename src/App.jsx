@@ -19,7 +19,7 @@ function App() {
        
         <div className='w-full max-w-[1440px] px-2.5 md:px-10 xl:px-24 mx-auto py-5' >
           <div className='space-y-[80px]'>
-            <Hero />
+            <Hero/>
            <Vision/>
            <Offer/>
            <DebitCard/>
