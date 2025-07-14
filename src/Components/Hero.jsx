@@ -1,4 +1,3 @@
-import React from 'react'
 import { Button } from '@heroui/react'
 import { FaArrowRight } from "react-icons/fa";
 const Hero = () => {
